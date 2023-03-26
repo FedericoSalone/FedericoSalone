@@ -1,9 +1,10 @@
 ![MasterHead](https://images.unsplash.com/photo-1617042375876-a13e36732a04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 <h1 align="center">Hi 👋, I'm Federico Salone</h1>
-<h3 align="center">I'm a frontend developer from Argentina.</h3>  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="">
+<h3 align="center">I'm a frontend developer from Argentina.</h3>  
+<img align="center" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="">
 
                        
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=federicosalone&label=Profile%20views&color=0e75b6&style=flat" alt="federicosalone" /> </p>
+<p align= "left"> <img src="https://komarev.com/ghpvc/?username=federicosalone&label=Profile%20views&color=0e75b6&style=flat" alt="federicosalone" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=federicosalone" alt="federicosalone" /></a> </p>
 
