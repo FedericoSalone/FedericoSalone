@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*8G1vA7egoxrL4Bb7RAgnPQ.jpeg)
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Federico Salone</h1>
 <h3 align="center">I'm a frontend developer from Argentina.</h3>  
-<img align="center" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="">
+<img align="center"  src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="">
 
                        
 <p align= "left"> <img src="https://komarev.com/ghpvc/?username=federicosalone&label=Profile%20views&color=0e75b6&style=flat" alt="federicosalone" /> </p>
