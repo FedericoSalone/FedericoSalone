@@ -1,31 +1,66 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Hi 👋, I'm Federico Salone</h1>
-<h3 align="center">I'm a frontend developer from Argentina.</h3>  
-<img align="center"  src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="">
+# Federico Salone
 
-                       
-<p align= "left"> <img src="https://komarev.com/ghpvc/?username=federicosalone&label=Profile%20views&color=0e75b6&style=flat" alt="federicosalone" /> </p>
+## Cloud & Cybersecurity Trainee | Python | Linux | Networking | Google Cloud & AWS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=federicosalone" alt="federicosalone" /></a> </p>
+IT professional oriented to **Cloud Computing and Cybersecurity**, currently seeking a **Trainee / Entry-Level** role.  
+I hold multiple certifications from **Google Cloud**, training in **Cybersecurity**, and hands-on practice with **Linux, Python, networking, virtualization, and cloud environments**.
 
-- 🌱 I’m currently learning **MERN**
+My current focus is on **defensive security (SOC / Blue Team)**, infrastructure fundamentals, and security automation using Python.
 
-- 👯 I’m looking to collaborate on **New Projects**
+---
 
-- 💬 Ask me about **HTML,CSS,JS,VUE.js**
+## Areas of Focus
 
-- 📫 How to reach me **fede.salone19@gmail.com**
+- Cybersecurity fundamentals (SOC, monitoring, incident analysis)
+- Network security (VLANs, VPNs, firewalls, basic hardening)
+- Cloud Computing (Google Cloud Platform, AWS)
+- Security automation and scripting with Python
+- Linux system administration
+- Infrastructure and virtualization basics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/federico salone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico salone" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Technologies & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=federicosalone&show_icons=true&locale=en&layout=compact" alt="federicosalone" /></p>
+- **Languages:** Python, Bash, SQL  
+- **Operating Systems:** Linux, Windows  
+- **Cloud Platforms:** Google Cloud, AWS  
+- **Security:** log analysis, basic threat detection, networking security  
+- **Infrastructure / DevOps:** Git, virtualization, CI/CD fundamentals  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=federicosalone&show_icons=true&locale=en" alt="federicosalone" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federicosalone&" alt="federicosalone" /></p>
+## Repositories
+
+This GitHub profile contains practical projects related to:
+
+- Python scripts for security automation
+- Network and infrastructure-related tools
+- Log analysis and monitoring exercises
+- Hands-on labs and technical practices for real-world environments
+
+All projects are developed for **educational and professional growth purposes**, following ethical and security best practices.
+
+---
+
+## Education & Certifications (Summary)
+
+- Google Cybersecurity Professional Certificate  
+- Google Cloud Computing Foundations  
+- Google Cloud Skill Badges (Networking, Security, Load Balancing, Terraform)  
+- AWS Educate (Cloud Operations, Databases, Generative AI)  
+- Educación IT – Cybersecurity, Linux, Python  
+- Background in Full Stack Development (MERN)
+
+---
+
+## Professional Goal
+
+I am actively seeking my **first professional opportunity** in **Cybersecurity, SOC, Cloud or Infrastructure roles** at a **Trainee or Junior level**, where I can apply my technical skills, gain real-world experience, and continue developing professionally.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/federico-salone-4a7b23269/
+- Email: fede.salone19@gmail.com
